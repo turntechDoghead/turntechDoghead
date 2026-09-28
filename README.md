@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=turntechGodh3aded&style=flat&color=e00707&label=losers+who+like+me&base=8312823625&abbreviated=true" alt="GitHubProfileViews" width="200">
-</p>
+
 
 
 

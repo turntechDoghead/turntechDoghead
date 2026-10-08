@@ -15,8 +15,6 @@
   
   <a href="https://github.com/burntushanka"><font color="#FFA500">Kyle</font></a>
   
-  <a href="https://github.com/NorthPlaygroundLover"><font color="#FFA500">Stan / NPL</font></a>
-
   <a href="https://github.com/pouncedeleon"><font color="#FFA500">Neppy</font></a>
 </details>
 

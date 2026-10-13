@@ -11,7 +11,9 @@
   <br>
     
   <img width="400" height="40" alt="2924" src="https://github.com/user-attachments/assets/3e38917a-2711-4548-91b4-b71885106f9f"/></a>
-  
+
+  <img width="400" height="40" alt="2924" src="https://github.com/user-attachments/assets/d776a3c0-3810-4c02-af3f-de7a8e1ff2a0" /></a>
+
 </details>
 
 </div>
